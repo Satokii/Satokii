@@ -1,4 +1,4 @@
-### <h1 align="center">Hi there 👋 I'm Satoki</h1>
+<h1 align="center">Hi there 👋 I'm Satoki</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NxZ2VlbHNrZm9xOG0ydHNidTR3ZTJxNXh1amNzNWV5ZXRueHFlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
